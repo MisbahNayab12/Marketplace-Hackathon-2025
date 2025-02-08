@@ -1,0 +1,7 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result ,Status,Severity Level,Assigned To,Remarks
+TC001,API Testing Chef page,Open thunderclient/Run API route,API Fetched on Thunder client,Successfully Fetched on thunderclient,Passed,High,,no issues found
+TC002,Product Page,Open product page,Display product page on frontend,Successfully Displayed on frontend,Passed,High,,no issues found
+TC003,Chef  Page,Open chef page,Display chef page on frontend,Succefully Displayed on Frontend,Passed,Medium,,no issues found
+TC004,Product Detail Page,Open product Detail Page,Display individual product detail page,Successfully displayed product detail page,Passed,Medium,,no issues found
+TC005,Shopping Cart Page,Click Add to Cart,Display shopping cart page with full description of items added to cart,Successfully displayed shopping cart page,Passed,High,,no issues found
+TC006,Checkout Page,Click Proceed to Checkout,Display checkout page with list of shopping items,Successfully Displayed checkout page,Passed,Medium,,no issues found
